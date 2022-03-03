@@ -4,11 +4,7 @@
   "text":"Thisis the text",
   "redirect": "https://i.ibb.co/bPQHzXW/ucp.png"
 },
-  "photo":{
-"link":"Link of the photo",
-  "text":"this is photo caption",
-   "redirect": "https://i.ibb.co/bPQHzXW/ucp.png"
-},
+
   "appImages":{
     "loginPage":"https://i.ibb.co/bPQHzXW/ucp.png",
     "avatar":"https://i.ibb.co/dKnp8TK/user.png"
