@@ -2,12 +2,12 @@
   "showSponsor": true,
 "text":{
   "text":"Thisis the text",
-  "redirect": "this is redirect link"
+  "redirect": "https://i.ibb.co/bPQHzXW/ucp.png"
 },
   "photo":{
 "link":"Link of the photo",
   "text":"this is photo caption",
-   "redirect": "this is redirect link"
+   "redirect": "https://i.ibb.co/bPQHzXW/ucp.png"
 },
   "appImages":{
     "loginPage":"https://i.ibb.co/bPQHzXW/ucp.png",
