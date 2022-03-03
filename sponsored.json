@@ -1,7 +1,9 @@
 {
   "showSponsor": true,
-"text":{
+
+  "photo":{
   "text":"Thisis the text",
+    "link":"https://i.ibb.co/bPQHzXW/ucp.png",
   "redirect": "https://i.ibb.co/bPQHzXW/ucp.png"
 },
 
