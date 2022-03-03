@@ -1,2 +1,15 @@
 {
-"text":{"text":"This" "is the text"}}
+"text":{
+  "text":"This" "is the text",
+  "redirect": "this is redirect link"
+},
+  "photo":{
+"link":"Link of the photo",
+  "text":"this is photo caption",
+   "redirect": "this is redirect link"
+},
+  "version":{"versionCode": 1,
+  "hardUpdate":false,
+             "changeLog":"ChangeLog"
+            }
+}
