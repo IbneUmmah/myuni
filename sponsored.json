@@ -1,4 +1,5 @@
 {
+  "showSponsor": true,
 "text":{
   "text":"Thisis the text",
   "redirect": "this is redirect link"
