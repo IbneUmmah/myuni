@@ -1,5 +1,6 @@
 {
   "showSponsor": false,
+  "messageType":"Awareness",
   "text":{
   "text":"Thisis the text",
   "redirect": "https://i.ibb.co/bPQHzXW/ucp.png"
