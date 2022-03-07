@@ -1,4 +1,4 @@
-eQuran: Privacy policy
+myUni: Privacy policy
 
 Welcome to myUni App, A project of Improving Uni Experience.
 
