@@ -1,0 +1,24 @@
+{
+  "showSponsor": false,
+  "messageType":"Awareness",
+  "text":{
+  "text":"Thisis the text",
+  "redirect": "https://i.ibb.co/bPQHzXW/ucp.png"
+},
+
+  "photo":{
+  "text":"Thisis the text",
+    "link":"https://i.ibb.co/bPQHzXW/ucp.png",
+  "redirect": "https://i.ibb.co/bPQHzXW/ucp.png"
+},
+
+  "appImages":{
+    "loginPage":"https://i.ibb.co/bPQHzXW/ucp.png",
+    "avatar":"https://i.ibb.co/dKnp8TK/user.png"
+  },
+  "version":{
+    "versionCode": 11,
+    "hardUpdate":false,
+    "changeLog":"Notifications me jo leave status tha na wo theek se calculate nahi ho rha tha wo thek kiya hai. Update kr lo achi rahy gi. Baki apki marzi"
+   }
+}
