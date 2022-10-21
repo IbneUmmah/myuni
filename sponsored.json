@@ -14,8 +14,8 @@
     "avatar":"https://i.ibb.co/dKnp8TK/user.png"
   },
   "version":{
-    "versionCode": 14,
+    "versionCode": 15,
     "hardUpdate":true,
-    "changeLog":"Updated to Session F22. Increased speed and improved UI to Material3 enjoy. Must Update."
+    "changeLog":"Updated to Session F22 and added new timetable. Increased speed and improved UI to Material3 enjoy. Must Update."
    }
 }
