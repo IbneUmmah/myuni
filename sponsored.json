@@ -1,7 +1,10 @@
 {
   "showSponsor": false,
-  "messageType":"Update is coming soon on 24/10/22",
-  "text":null,
+  "messageType":"Congratulations Portal Reset 🎉",
+  "text":{
+  "text":"Did you get benefit by it? Tell us by clicking on me...",
+"redirect": "https://www.instagram.com/myunisupport/"
+},
 
   "photo":{
   "text":"New Update will be uploaded in the next week INSHA ALLAH! Wait until then. I am not coming to uni this week as you know portal resets and all. So enjoy and wait till next week. ",
