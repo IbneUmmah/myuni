@@ -1,12 +1,12 @@
 {
   "showSponsor": false,
-  "messageType":"Listen...",
+  "messageType":"Don't sign up for concert",
 
 
   "photo":{
-  "text":"Tariq Jamil Bayan. Click on it.",
-    "link":"https://i.ytimg.com/vi/claXok90MNY/maxresdefault.jpg",
-  "redirect": "https://www.youtube.com/watch?v=XMBtJCQdQRQ"
+  "text":"Music is HARAAM!",
+    "link":"https://i.ibb.co/GvY5rn0/music-is-haram.png",
+  "redirect": "https://www.youtube.com/watch?v=fjeczXPnIHg"
 },
 
   "appImages":{
