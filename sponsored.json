@@ -1,12 +1,12 @@
 {
   "showSponsor": false,
-  "messageType":"Don't sign up for concert",
+  "messageType":"MyUni Survey",
 
 
   "photo":{
-  "text":"Music is HARAAM!",
-    "link":"https://i.ibb.co/GvY5rn0/music-is-haram.png",
-  "redirect": "https://www.youtube.com/watch?v=fjeczXPnIHg"
+  "text":"Fill this survey of this app, it would make the app better.",
+    "link":"https://www.clipartmax.com/png/middle/17-172724_forms-clip-art-please-fill-out-the-form.png",
+  "redirect": "https://forms.gle/YNN6Jy6FdwD7HHpp6"
 },
 
   "appImages":{
