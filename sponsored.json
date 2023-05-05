@@ -1,7 +1,11 @@
 {
-  "showSponsor": false,
-  "messageType":"MyUni Survey",
+  "showSponsor": true,
+  "messageType":"No Update, Sorry people!",
 
+ "text":{
+  "text":"Guys, maybe bad news, odoo portal requires Microsoft Sign-In which is only possible if I have paid subscription of their plan, so I don't think I will be able to buy it, and writing whole backend code from scratch is not worth the effort. Until further notice, there won't be any update to this app. JAZAK ALLAH!",
+"redirect": "https://play.google.com/store/apps/details?id=com.maqsoodahmadtech.myuni/"
+},
 
   "photo":{
   "text":"Fill this survey of this app, it would make the app better.",
