@@ -2,15 +2,11 @@
   "showSponsor": true,
   "messageType":"No Update, Sorry people!",
 
- "text":{
-  "text":"Guys, maybe bad news, odoo portal requires Microsoft Sign-In which is only possible if I have paid subscription of their plan, so I don't think I will be able to buy it as I don't earn any money from it because Ads are not HALAL!, and writing whole backend code from scratch is not worth the effort. Until further notice, there won't be any update to this app. JAZAK ALLAH!",
-"redirect": "https://instagram.com/myunisupport"
-},
 
   "photo":{
   "text":"Fill this survey of this app, it would make the app better.",
     "link":"https://www.clipartmax.com/png/middle/17-172724_forms-clip-art-please-fill-out-the-form.png",
-  "redirect": "https://bit.ly/myuniappsurvey"
+  "redirect": "https://bit.ly/myuniappsurvey1"
 },
 
   "appImages":{
