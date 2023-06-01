@@ -1,12 +1,12 @@
 {
   "showSponsor": true,
-  "messageType":"No Update, Sorry people!",
+  "messageType":"Update is coming, Follow guidelines.",
 
 
   "photo":{
-  "text":"Fill this survey of this app, it is MUST, to continue to this app",
-    "link":"https://www.clipartmax.com/png/middle/17-172724_forms-clip-art-please-fill-out-the-form.png",
-  "redirect": "https://bit.ly/myuniappsurvey1"
+  "text":"People, when you update the app in few days, kindly first complete migration step first, otherwise you won't be able to use the app.",
+    "link":"https://madac.my/images/willupdate.png",
+  "redirect": "https://www.instagram.com/myunisupport/"
 },
 
   "appImages":{
