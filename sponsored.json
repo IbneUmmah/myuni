@@ -15,7 +15,7 @@
   },
   "version":{
     "versionCode": 20,
-    "hardUpdate":true,
+    "hardUpdate":false,
     "changeLog":"✅ Status/Stories like Whatsapp,Instagram 🧮 CGPA/GPA calculator ✔ Layout changed slightly ✅ Session S23 🌟 Some fixes"
    }
 }
