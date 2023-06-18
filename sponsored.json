@@ -14,8 +14,8 @@
     "avatar":"https://i.ibb.co/dKnp8TK/user.png"
   },
   "version":{
-    "versionCode": 22,
+    "versionCode": 28,
     "hardUpdate":true,
-    "changeLog":"✅ Status/Stories like Whatsapp,Instagram 🧮 CGPA/GPA calculator ✔ Layout changed slightly ✅ Session S23 🌟 Some fixes"
+    "changeLog":"uni IT team messed up again and changed domain from odoo to horizon now, so this update is necessary to work properly. kindly update."
    }
 }
