@@ -1,12 +1,12 @@
 {
-  "showSponsor": false,
-  "messageType":"Update is coming, Follow guidelines.",
+  "showSponsor": true,
+  "messageType":"Fill the survey form. Compulsory!",
 
 
   "photo":{
-  "text":"People, when you update the app in few days, kindly first complete migration step first, otherwise you won't be able to use the app.",
-    "link":"https://madac.my/images/willupdate.png",
-  "redirect": "https://www.instagram.com/myunisupport/"
+  "text":"Kindly fill out this survey by clicking below. It is compulsory for everyone.",
+    "link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuMf7ZndFez0aFzSZKF37tQea2G3cA6Agwyw",
+  "redirect": "https://bit.ly/myunisurvey2"
 },
 
   "appImages":{
